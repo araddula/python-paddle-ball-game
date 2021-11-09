@@ -6,4 +6,4 @@ i.e. `python game.py` or `python3 game.py`<br><br>
 Premise of the game is to bounce the ball off the wall (top of canvas) with your paddle. Don't mess up.<br><br>
 ![Game screenshot](https://raw.githubusercontent.com/araddula/python-paddle-ball-game/main/screenshot.png)<br><br>
 ## Credits
-Project began with Alejandro Rodas de Paz's <i>Python Game Programming By Example</i>.<br><br>
+https://github.com/gingeleski/pyong.<br><br>
